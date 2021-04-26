@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\danil\source\repos\26.04 All  tasks\Source.cpp(60,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  26.04 All  tasks.vcxproj -> C:\Users\danil\source\repos\26.04 All  tasks\Debug\26.04 All  tasks.exe
